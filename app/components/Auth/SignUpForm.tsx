@@ -161,7 +161,7 @@ const SignUp = () => {
       
       <div className="flex mt-4 gap-2">
         <p className="font-normal text-[16px] font-epilogue text-[#202430]">Already have an account?</p>
-        <Link href="/SignIn" className="text-blue-600 hover:underline">Login</Link>
+        <Link href="/signin" className="text-blue-600 hover:underline">Login</Link>
       </div>
 
       <p className="font-normal text-[14px] font-epilogue text-[#7C8493]">

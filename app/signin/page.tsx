@@ -12,7 +12,7 @@ const SignInPage = () => {
 
         <div className='flex'>
           <p className="font-normal text-[16px] font-epilogue text-[#202430]">Don’t have an account?</p>
-          <Link href="/SignUp" className="text-blue-600 hover:underline text-[#202430]">Sign Up</Link>
+          <Link href="/signup" className="text-blue-600 hover:underline text-[#202430]">Sign Up</Link>
         </div>
       </div>
     </div>
