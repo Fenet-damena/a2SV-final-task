@@ -53,7 +53,7 @@ Users can click the star icon to **add/remove jobs from bookmarks**.
 
 ### 📂 Bookmarks Page  
 Dedicated page showing all saved/bookmarked jobs for the logged-in user.  
-![Bookmarks Page](./public/screenshots/bookmarked2-page.png)
+![Bookmarks Page](./public/screenshots/bookmarked2.png)
 
 ---
 
