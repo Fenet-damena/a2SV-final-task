@@ -46,7 +46,7 @@ User-friendly login form with error handling.
 ## 🔖 Bookmark Feature
 
 ### ⭐ Bookmark Toggle on Job Card  
-Users can click the star icon to **add/remove jobs from bookmarks**.  
+Users can click the bookmark icon to **add/remove jobs from bookmarks**.  
 ![Bookmark Toggle](./public/screenshots/bookmark1.png)
 
 ---
