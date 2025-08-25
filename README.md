@@ -75,8 +75,8 @@ Dedicated page showing all saved/bookmarked jobs for the logged-in user.
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/Fenet-damena/A2SV-task-8
-cd job-listing-application
+git clone https://github.com/Fenet-damena/a2SV-final-task.git
+cd a2SV-final-task
 ````
 
 2. **Install Dependencies**
@@ -99,7 +99,7 @@ npm run dev
 
 ## 🧪 Testing
 
-We implemented two types of tests for **Bookmark functionality**:
+I implemented two types of tests for **Bookmark functionality**:
 
 1. **Unit + Component Testing with Jest**
 
