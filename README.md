@@ -42,17 +42,6 @@ User-friendly login form with error handling.
 
 ---
 
-## 📌 Job Listing View  
-
-![Job List](./public/screenshots/job-list.png)
-
----
-
-## 📋 Job Description View  
-
-![Job Description](./public/screenshots/job-description.png)
-
----
 
 ## 🔖 Bookmark Feature
 
