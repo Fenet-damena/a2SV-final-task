@@ -6,7 +6,7 @@ It features dynamic job data fetched directly from a remote API, clean navigatio
 
 ---
 
-## ✨ What We Implemented
+## ✨ What I Implemented
 
 * **Job Cards UI:** Reusable `JobCard` components styled to match the design exactly.  
 * **Job Detail Page:** Built with proper layout, icons, fonts, and spacing following the reference.  
